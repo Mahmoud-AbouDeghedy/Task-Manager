@@ -23,6 +23,8 @@ A simple Node.js project that allows users to manage their tasks. The app suppor
 
 To get started, clone the repo and run `npm install` to install the dependencies. You'll also need to set up a MongoDB database and add your connection string to a `.env` file.
 
+The project is also deployed on railway at `https://task-manager-production-ec5b.up.railway.app/`
+
 ## Usage
 
 Run the app with `npm start` and go to `http://localhost:3000` in your browser.
